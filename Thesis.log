@@ -1,0 +1,3084 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2020.4.1)  1 APR 2020 16:12
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Thesis
+(./Thesis.tex
+LaTeX2e <2019-10-01> patch level 1
+(./Style/ucasthesis.cls
+
+LaTeX Warning: You have requested document class `Style/ucasthesis',
+               but the document class provides `ucasthesis'.
+
+Document Class: ucasthesis 2014/10/01 v1.0 LaTeX document class
+(/usr/share/texmf-dist/tex/latex/ctex/ctexbook.cls (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-10-28 L3 programming layer (loader) 
+ (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-10-28 L3 programming layer (code)
+\c_max_int=\count80
+\l_tmpa_int=\count81
+\l_tmpb_int=\count82
+\g_tmpa_int=\count83
+\g_tmpb_int=\count84
+\l__seq_internal_a_int=\count85
+\l__seq_internal_b_int=\count86
+\g__kernel_prg_map_int=\count87
+\c__ior_term_noprompt_ior=\count88
+\c_log_iow=\count89
+\l_iow_line_count_int=\count90
+\l__iow_line_target_int=\count91
+\l__iow_one_indent_int=\count92
+\l__iow_indent_int=\count93
+\c_zero_dim=\dimen102
+\c_max_dim=\dimen103
+\l_tmpa_dim=\dimen104
+\l_tmpb_dim=\dimen105
+\g_tmpa_dim=\dimen106
+\g_tmpb_dim=\dimen107
+\c_zero_skip=\skip41
+\c_max_skip=\skip42
+\l_tmpa_skip=\skip43
+\l_tmpb_skip=\skip44
+\g_tmpa_skip=\skip45
+\g_tmpb_skip=\skip46
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count94
+\l__intarray_loop_int=\count95
+\c__intarray_sp_dim=\dimen108
+\g__intarray_font_int=\count96
+\c__fp_leading_shift_int=\count97
+\c__fp_middle_shift_int=\count98
+\c__fp_trailing_shift_int=\count99
+\c__fp_big_leading_shift_int=\count100
+\c__fp_big_middle_shift_int=\count101
+\c__fp_big_trailing_shift_int=\count102
+\c__fp_Bigg_leading_shift_int=\count103
+\c__fp_Bigg_middle_shift_int=\count104
+\c__fp_Bigg_trailing_shift_int=\count105
+\g__fp_array_int=\count106
+\l__fp_array_loop_int=\count107
+\l__sort_length_int=\count108
+\l__sort_min_int=\count109
+\l__sort_top_int=\count110
+\l__sort_max_int=\count111
+\l__sort_true_max_int=\count112
+\l__sort_block_int=\count113
+\l__sort_begin_int=\count114
+\l__sort_end_int=\count115
+\l__sort_A_int=\count116
+\l__sort_B_int=\count117
+\l__sort_C_int=\count118
+\l__str_internal_int=\count119
+\l__tl_analysis_normal_int=\count120
+\l__tl_analysis_index_int=\count121
+\l__tl_analysis_nesting_int=\count122
+\l__tl_analysis_type_int=\count123
+\l__regex_internal_a_int=\count124
+\l__regex_internal_b_int=\count125
+\l__regex_internal_c_int=\count126
+\l__regex_balance_int=\count127
+\l__regex_group_level_int=\count128
+\l__regex_mode_int=\count129
+\c__regex_cs_in_class_mode_int=\count130
+\c__regex_cs_mode_int=\count131
+\l__regex_catcodes_int=\count132
+\l__regex_default_catcodes_int=\count133
+\c__regex_catcode_L_int=\count134
+\c__regex_catcode_O_int=\count135
+\c__regex_catcode_A_int=\count136
+\c__regex_all_catcodes_int=\count137
+\l__regex_show_lines_int=\count138
+\l__regex_min_state_int=\count139
+\l__regex_max_state_int=\count140
+\l__regex_left_state_int=\count141
+\l__regex_right_state_int=\count142
+\l__regex_capturing_group_int=\count143
+\l__regex_min_pos_int=\count144
+\l__regex_max_pos_int=\count145
+\l__regex_curr_pos_int=\count146
+\l__regex_start_pos_int=\count147
+\l__regex_success_pos_int=\count148
+\l__regex_curr_char_int=\count149
+\l__regex_curr_catcode_int=\count150
+\l__regex_last_char_int=\count151
+\l__regex_case_changed_char_int=\count152
+\l__regex_curr_state_int=\count153
+\l__regex_step_int=\count154
+\l__regex_min_active_int=\count155
+\l__regex_max_active_int=\count156
+\l__regex_replacement_csnames_int=\count157
+\l__regex_match_count_int=\count158
+\l__regex_min_submatch_int=\count159
+\l__regex_submatch_int=\count160
+\l__regex_zeroth_submatch_int=\count161
+\g__regex_trace_regex_int=\count162
+\c_empty_box=\box27
+\l_tmpa_box=\box28
+\l_tmpb_box=\box29
+\g_tmpa_box=\box30
+\g_tmpb_box=\box31
+\l__box_top_dim=\dimen109
+\l__box_bottom_dim=\dimen110
+\l__box_left_dim=\dimen111
+\l__box_right_dim=\dimen112
+\l__box_top_new_dim=\dimen113
+\l__box_bottom_new_dim=\dimen114
+\l__box_left_new_dim=\dimen115
+\l__box_right_new_dim=\dimen116
+\l__box_internal_box=\box32
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen117
+\l__coffin_offset_x_dim=\dimen118
+\l__coffin_offset_y_dim=\dimen119
+\l__coffin_x_dim=\dimen120
+\l__coffin_y_dim=\dimen121
+\l__coffin_x_prime_dim=\dimen122
+\l__coffin_y_prime_dim=\dimen123
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\g_tmpa_coffin=\box39
+\g_tmpb_coffin=\box40
+\l__coffin_bounding_shift_dim=\dimen124
+\l__coffin_left_corner_dim=\dimen125
+\l__coffin_right_corner_dim=\dimen126
+\l__coffin_bottom_corner_dim=\dimen127
+\l__coffin_top_corner_dim=\dimen128
+\l__coffin_scaled_total_height_dim=\dimen129
+\l__coffin_scaled_width_dim=\dimen130
+\c__coffin_empty_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen131
+\l__coffin_display_x_dim=\dimen132
+\l__coffin_display_y_dim=\dimen133
+\g__char_data_ior=\read1
+ (/usr/share/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2019-04-06 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count163
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count164
+\g__pdf_backend_annotation_int=\count165
+))
+Document Class: ctexbook 2019/05/29 v2.4.16 Chinese adapter for class book (CTEX)
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2019-10-11 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count166
+\g__xparse_grabber_int=\count167
+\l__xparse_m_args_int=\count168
+\l__xparse_v_nesting_int=\count169
+) (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
+) (/usr/share/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+) (/usr/share/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+) (/usr/share/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/share/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)) (/usr/share/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count170
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count171
+\g__ctex_font_size_int=\count172
+ (/usr/share/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+) (/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/08/27 v1.4j Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@chapter=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\c@figure=\count180
+\c@table=\count181
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) (/usr/share/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/05/29 v2.4.16 XeLaTeX adapter (CTEX)
+ (/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2019/06/02 v3.7.4 Typesetting CJK scripts with XeLaTeX
+ (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2019-10-11 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen136
+\l__xtemplate_tmp_int=\count182
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count183
+\l__xeCJK_tmp_box=\box47
+\l__xeCJK_tmp_dim=\dimen137
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count184
+\l__xeCJK_begin_int=\count185
+\l__xeCJK_end_int=\count186
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count187
+\c__xeCJK_CJK_node_dim=\dimen138
+\c__xeCJK_CJK-space_node_dim=\dimen139
+\c__xeCJK_default_node_dim=\dimen140
+\c__xeCJK_default-space_node_dim=\dimen141
+\c__xeCJK_CJK-widow_node_dim=\dimen142
+\c__xeCJK_normalspace_node_dim=\dimen143
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count188
+\l__xeCJK_last_bound_dim=\dimen144
+\l__xeCJK_last_kern_dim=\dimen145
+\l__xeCJK_widow_penalty_int=\count189
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2323.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen146
+\l__xeCJK_mixed_punct_width_dim=\dimen147
+\l__xeCJK_middle_punct_width_dim=\dimen148
+\l__xeCJK_fixed_margin_width_dim=\dimen149
+\l__xeCJK_mixed_margin_width_dim=\dimen150
+\l__xeCJK_middle_margin_width_dim=\dimen151
+\l__xeCJK_bound_punct_width_dim=\dimen152
+\l__xeCJK_bound_margin_width_dim=\dimen153
+\l__xeCJK_margin_minimum_dim=\dimen154
+\l__xeCJK_kerning_total_width_dim=\dimen155
+\l__xeCJK_same_align_margin_dim=\dimen156
+\l__xeCJK_different_align_margin_dim=\dimen157
+\l__xeCJK_kerning_margin_width_dim=\dimen158
+\l__xeCJK_kerning_margin_minimum_dim=\dimen159
+\l__xeCJK_bound_dim=\dimen160
+\l__xeCJK_reverse_bound_dim=\dimen161
+\l__xeCJK_margin_dim=\dimen162
+\l__xeCJK_minimum_bound_dim=\dimen163
+\l__xeCJK_kerning_margin_dim=\dimen164
+\g__xeCJK_family_int=\count190
+\l__xeCJK_fam_int=\count191
+\g__xeCJK_fam_allocation_int=\count192
+\l__xeCJK_verb_case_int=\count193
+\l__xeCJK_verb_exspace_skip=\skip55
+ (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTeX
+ (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count194
+\l__fontspec_language_int=\count195
+\l__fontspec_strnum_int=\count196
+\l__fontspec_tmp_int=\count197
+\l__fontspec_tmpa_int=\count198
+\l__fontspec_tmpb_int=\count199
+\l__fontspec_tmpc_int=\count266
+\l__fontspec_em_int=\count267
+\l__fontspec_emdef_int=\count268
+\l__fontspec_strong_int=\count269
+\l__fontspec_strongdef_int=\count270
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+ (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (/usr/share/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+)) (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4047.
+LaTeX Info: Redefining \slshape on input line 4052.
+LaTeX Info: Redefining \scshape on input line 4057.
+LaTeX Info: Redefining \upshape on input line 4062.
+LaTeX Info: Redefining \em on input line 4092.
+LaTeX Info: Redefining \emph on input line 4117.
+)) (/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2019/06/02 v3.7.4 Configuration file for xeCJK package
+)) (/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2019/06/02 v3.7.4 xeCJK font effect
+ (/usr/share/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip56
+\UL@hook=\toks14
+\UL@height=\dimen168
+\UL@pe=\count271
+\UL@pixel=\dimen169
+\ULC@box=\box50
+Package: ulem 2012/05/18
+\ULdepth=\dimen170
+) (/usr/share/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+\CJK@fntefSkip=\skip57
+\CJK@nest=\count272
+\CJK@fntefDimen=\dimen171
+\CJK@underdotBox=\box51
+\CJK@ULbox=\box52
+\CJK@underanyskip=\dimen172
+)
+\l__xeCJK_space_skip=\skip58
+\c__xeCJK_ulem-begin_node_dim=\dimen173
+\c__xeCJK_null_box=\box53
+\l__xeCJK_fntef_box=\box54
+\l__xeCJK_under_symbol_box=\box55
+\c__xeCJK_filll_skip=\skip59
+)
+\ccwd=\dimen174
+\l__ctex_ccglue_skip=\skip60
+)
+\l__ctex_ziju_dim=\dimen175
+ (/usr/share/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count273
+ (/usr/share/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip61
+ (/usr/share/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+File: ctex-scheme-chinese-book.def 2019/05/29 v2.4.16 Chinese scheme for book (CTEX)
+ (/usr/share/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+)) (/usr/share/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
+File: ctex-cs4size.clo 2019/05/29 v2.4.16 cs4size option (CTEX)
+) (/usr/share/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2019/05/29 v2.4.16 Fandol fonts definition (CTEX)
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+
+)) (/usr/share/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+) (/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count274
+)) (./Style/ucasthesis.cfg
+File: ucasthesis.cfg 2014/10/01 v1.0 class configuration file
+) (./Style/artratex.sty
+
+LaTeX Warning: You have requested package `Style/artratex',
+               but the package provides `artratex'.
+
+Package: artratex 2014/10/01 v1.0 LaTeX macros package
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/04/01 v2.17c AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen176
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count275
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count276
+\leftroot@=\count277
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count278
+\DOTSCASE@=\count279
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count280
+\c@MaxMatrixCols=\count281
+\dotsspace@=\muskip17
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
+\tag@help=\toks16
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
+\andhelp@=\toks17
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks18
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip65
+\thm@postskip=\skip66
+\thm@headsep=\skip67
+\dth@everypar=\toks25
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\c@theorem=\count287
+\c@definition=\count288
+\c@example=\count289
+ (./newtxtext.sty
+Package: newtxtext 2020/03/02 v1.625
+ `newtxtext' v1.625, 2020/03/02 Text macros taking advantage of TeX-Gyre Termes fonts (msharpe) (/usr/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+\ntx@fs=\dimen185
+ (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+ (/usr/share/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count290
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (./mweights.sty
+Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 30.
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 66.
+LaTeX Info: Redefining \ttfamily on input line 94.
+) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (/usr/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 105.
+ (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+Package textcomp Info: Changing ? sub-encoding to TS1/0 on input line 80.
+ (/usr/share/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+\ntxt@cntz=\count291
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 263.
+) (./newtxmath.sty
+Package: newtxmath 2020/03/02 v1.625
+ `newtxmath' v1.625, 2020/03/02 Math macros based originally on txfonts (msharpe) (/usr/share/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count292
+ (/usr/share/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count293
+\tx@IsAlNum=\count294
+\tx@tA=\toks28
+\tx@tB=\toks29
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 318.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 326.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 327.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 328.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 331.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 332.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 333.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 423.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 476.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 478.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 498.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 521.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 542.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 555.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 555.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 556.
+\symlargesymbolsTXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 570.
+\tx@sbptoks=\toks30
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 783.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 784.
+LaTeX Font Info:    Redeclaring math delimiter \lmoustache on input line 785.
+LaTeX Font Info:    Redeclaring math delimiter \rmoustache on input line 786.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 792.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 793.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 794.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 795.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 796.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 797.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 798.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 800.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 804.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 805.
+LaTeX Font Info:    Redeclaring math delimiter \Arrowvert on input line 807.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 808.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 810.
+LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 811.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 876.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 877.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1940.
+\ntx@numstart=\count295
+\ntx@UCstart=\count296
+\ntx@lcstart=\count297
+\ntx@tmpc=\count298
+\ntx@imath=\count299
+\ntx@jmath=\count300
+LaTeX Info: Redefining \Bbbk on input line 2449.
+LaTeX Info: Redefining \not on input line 2598.
+LaTeX Info: Redefining \textsquare on input line 2628.
+LaTeX Info: Redefining \openbox on input line 2630.
+) (/usr/share/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup10
+) (/usr/share/texmf-dist/tex/latex/mathalpha/mathalfa.sty) (/usr/share/texmf-dist/tex/latex/mathalpha/mathalpha.sty
+Package: mathalpha 2019/10/05 - 1.13mathalpha (License LPPL) Michael Sharpe
+ `mathalpha' v1.13, 2019/10/05, a renaming of mathalfa (msharpe)
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 199.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  U/cmsy/m/n --> U/cmsy/b/n on input line 200.
+) (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip68
+\bibsep=\skip69
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count301
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen186
+\Gin@req@width=\dimen187
+) (/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+ (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen188
+\captionmargin@=\dimen189
+\captionwidth=\dimen190
+\caption@tempdima=\dimen191
+\caption@indent=\dimen192
+\caption@parindent=\dimen193
+\caption@hangindent=\dimen194
+)
+\c@caption@flags=\count302
+\c@ContinuedFloat=\count303
+) (/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2019/09/01 v1.3a Sub-captions (AR)
+\c@subfigure=\count304
+\c@subtable=\count305
+) (/usr/share/texmf-dist/tex/latex/caption/bicaption.sty
+Package: bicaption 2016/03/27 v1.2 Bilingual Captions (AR)
+\bicaption@lang=\count306
+Package bicaption Info: main language is not set.
+) (/usr/share/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip70
+\f@nch@O@elh=\skip71
+\f@nch@O@erh=\skip72
+\f@nch@O@olh=\skip73
+\f@nch@O@orh=\skip74
+\f@nch@O@elf=\skip75
+\f@nch@O@erf=\skip76
+\f@nch@O@olf=\skip77
+\f@nch@O@orf=\skip78
+) (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: xetex.def on input line 225.
+ (/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+ (/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen195
+\ar@mcellbox=\box58
+\extrarowheight=\dimen196
+\NC@list=\toks31
+\extratabsurround=\skip79
+\backup@length=\skip80
+\ar@cellbox=\box59
+)
+\everycr=\toks32
+\minrowclearance=\skip81
+)
+\rownum=\count307
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (/usr/share/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks33
+\verbatim@line=\toks34
+\verbatim@in@stream=\read3
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks35
+\labelindent=\skip82
+\enit@outerparindent=\dimen197
+\enit@toks=\toks36
+\enit@inbox=\box60
+\enit@count@id=\count308
+\enitdp@description=\count309
+) (/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count310
+\lst@gtempboxa=\box61
+\lst@token=\toks37
+\lst@length=\count311
+\lst@currlwidth=\dimen198
+\lst@column=\count312
+\lst@pos=\count313
+\lst@lostspace=\dimen199
+\lst@width=\dimen256
+\lst@newlines=\count314
+\lst@lineno=\count315
+\lst@maxwidth=\dimen257
+ (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count316
+\lst@skipnumbers=\count317
+\lst@framebox=\box62
+) (/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (/usr/share/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count318
+\c@ALG@rem=\count319
+\c@ALG@nested=\count320
+\ALG@tlm=\skip83
+\ALG@thistlm=\skip84
+\c@ALG@Lnr=\count321
+\c@ALG@blocknr=\count322
+\c@ALG@storecount=\count323
+\c@ALG@tmpcounter=\count324
+\ALG@tmplength=\skip85
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count325
+\float@exts=\toks38
+\float@box=\box63
+\@float@everytoks=\toks39
+\@floatcapt=\box64
+)
+\@float@every@algorithm=\toks40
+\c@algorithm=\count326
+)) (./Style/artracom.sty
+
+LaTeX Warning: You have requested package `Style/artracom',
+               but the package provides `artracom'.
+
+Package: artracom 2014/10/01 v1.0 LaTeX macros package
+(./chemfig.sty (/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks41
+\pgfutil@tempdima=\dimen258
+\pgfutil@tempdimb=\dimen259
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box65
+ (/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks42
+\pgfkeys@temptoks=\toks43
+ (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks44
+))
+\pgf@x=\dimen260
+\pgf@y=\dimen261
+\pgf@xa=\dimen262
+\pgf@ya=\dimen263
+\pgf@xb=\dimen264
+\pgf@yb=\dimen265
+\pgf@xc=\dimen266
+\pgf@yc=\dimen267
+\pgf@xd=\dimen268
+\pgf@yd=\dimen269
+\w@pgf@writea=\write3
+\r@pgf@reada=\read4
+\c@pgf@counta=\count327
+\c@pgf@countb=\count328
+\c@pgf@countc=\count329
+\c@pgf@countd=\count330
+\t@pgf@toka=\toks45
+\t@pgf@tokb=\toks46
+\t@pgf@tokc=\toks47
+\pgf@sys@id@count=\count331
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-xetex.def
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)
+\pgfsys@objnum=\count332
+))) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count333
+\pgfsyssoftpath@bigbuffer@items=\count334
+) (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen270
+\pgfmath@count=\count335
+\pgfmath@box=\box66
+\pgfmath@toks=\toks48
+\pgfmath@stack@operand=\toks49
+\pgfmath@stack@operation=\toks50
+) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count336
+)) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen271
+\pgf@picmaxx=\dimen272
+\pgf@picminy=\dimen273
+\pgf@picmaxy=\dimen274
+\pgf@pathminx=\dimen275
+\pgf@pathmaxx=\dimen276
+\pgf@pathminy=\dimen277
+\pgf@pathmaxy=\dimen278
+\pgf@xx=\dimen279
+\pgf@xy=\dimen280
+\pgf@yx=\dimen281
+\pgf@yy=\dimen282
+\pgf@zx=\dimen283
+\pgf@zy=\dimen284
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen285
+\pgf@path@lasty=\dimen286
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen287
+\pgf@shorten@start@additional=\dimen288
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box67
+\pgf@hbox=\box68
+\pgf@layerbox@main=\box69
+\pgf@picture@serial@count=\count337
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen289
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen290
+\pgf@pt@y=\dimen291
+\pgf@pt@temp=\dimen292
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen293
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen294
+\pgf@sys@shading@range@num=\count338
+\pgf@shadingcount=\count339
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box70
+)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box71
+) (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen295
+\pgf@nodesepend=\dimen296
+) (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+)) (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen297
+\pgffor@skip=\dimen298
+\pgffor@stack=\toks51
+\pgffor@toks=\toks52
+)) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+ (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count340
+\pgfplotmarksize=\dimen299
+)
+\tikz@lastx=\dimen300
+\tikz@lasty=\dimen301
+\tikz@lastxsaved=\dimen302
+\tikz@lastysaved=\dimen303
+\tikz@lastmovetox=\dimen304
+\tikz@lastmovetoy=\dimen305
+\tikzleveldistance=\dimen306
+\tikzsiblingdistance=\dimen307
+\tikz@figbox=\box72
+\tikz@figbox@bg=\box73
+\tikz@tempbox=\box74
+\tikz@tempbox@bg=\box75
+\tikztreelevel=\count341
+\tikznumberofchildren=\count342
+\tikznumberofcurrentchild=\count343
+\tikz@fig@count=\count344
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count345
+\pgfmatrixcurrentcolumn=\count346
+\pgf@matrix@numberofcolumns=\count347
+)
+\tikz@expandcount=\count348
+ (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) (./chemfig.tex
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 43 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 57 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 57 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 57 replaced by U+FFFD.
+ (/usr/share/texmf-dist/tex/generic/simplekv/simplekv.tex
+Invalid UTF-8 byte or sequence at line 2 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 51 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 51 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 51 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 51 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 55 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 59 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 59 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 59 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 60 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 68 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 68 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 73 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 73 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 110 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 110 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 113 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 113 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 113 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 113 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 113 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 113 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 117 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 117 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 117 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 117 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 122 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 126 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 126 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 128 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 129 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 129 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 129 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 140 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 140 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 142 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 142 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 147 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 151 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 152 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 152 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 152 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 154 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 154 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 154 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 157 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 157 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 157 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 158 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 164 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 166 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 166 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 167 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 171 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 171 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 172 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 173 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 175 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 178 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 178 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 181 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 183 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 183 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 187 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 187 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 189 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 191 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 191 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 191 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 191 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 192 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 192 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 196 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 196 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 197 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 200 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 200 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 200 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 201 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 202 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 202 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 202 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 204 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 204 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 204 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 205 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 205 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 205 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 206 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 207 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 208 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 210 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 212 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 212 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 212 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 212 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 213 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 213 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 213 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 215 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 215 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 217 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 217 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 217 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 218 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 220 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 225 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 229 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 229 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 229 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 229 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 238 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 238 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 240 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 240 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 241 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 244 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 244 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 244 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 247 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 247 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 255 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 255 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 256 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 256 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 256 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 256 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 257 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 259 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 262 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 265 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 265 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 265 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 265 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 280 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 285 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 285 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 287 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 288 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 288 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 292 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 297 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 297 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 297 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 298 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 309 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
+) (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowinset=\dimen308
+\pgfarrowlength=\dimen309
+\pgfarrowwidth=\dimen310
+\pgfarrowlinewidth=\dimen311
+)
+\CF_cntatomgroup=\count349
+\CF_cntgroup=\count350
+\CF_cntatom=\count351
+\CF_cntcycle=\count352
+\CF_cntcompound=\count353
+\CF_dim=\dimen312
+\CF_arrowsize=\dimen313
+\CF_zero=\dimen314
+\CF_boxlewis=\box76
+\CF_box=\box77
+\CF_boxstuff=\box78
+\CF_testbox=\box79
+\CF_chargebox=\box80
+\CF_substtoks=\toks53
+Invalid UTF-8 byte or sequence at line 161 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 187 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 216 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 216 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 277 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 278 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 278 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 278 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 294 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 294 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 351 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 359 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 363 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 364 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 406 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 420 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 420 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 420 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 420 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 420 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 421 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 429 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 439 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 459 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 459 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 521 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 525 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 560 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 568 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 571 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 573 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 575 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 575 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 599 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 611 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 611 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 611 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 612 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 616 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 616 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 638 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 638 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 669 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 669 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 709 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 709 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 718 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 734 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 736 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 736 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 737 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 737 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 740 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 740 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 762 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 776 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 776 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 790 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 800 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 800 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 800 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 806 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 808 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 808 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 809 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 809 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 809 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 819 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 826 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 831 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 832 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 834 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 866 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 883 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 906 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 906 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 907 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 938 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 938 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 942 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 942 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 943 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 949 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 958 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 958 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 961 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 965 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 970 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 970 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1066 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1066 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1067 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1101 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1101 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1137 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1151 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1176 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1183 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1190 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1194 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1194 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1210 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1234 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1234 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1289 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1324 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1325 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1341 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1381 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1381 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1400 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1463 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1472 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1472 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1512 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1515 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1515 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1515 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1516 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1516 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1520 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1520 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1555 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1583 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1588 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1684 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1722 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1932 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1932 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2018 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2018 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2036 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2152 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2170 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2170 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2170 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2206 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2239 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2239 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2240 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2240 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2240 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2240 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2240 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2288 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2288 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2434 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2462 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2462 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 2462 replaced by U+FFFD.
+)
+Package: chemfig 2020/03/05 v1.5 Draw molecule with an easy syntax (CT)
+) (/usr/share/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
+ (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count354
+\calc@Bcount=\count355
+\calc@Adimen=\dimen315
+\calc@Bdimen=\dimen316
+\calc@Askip=\skip86
+\calc@Bskip=\skip87
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count356
+\calc@Cskip=\skip88
+) (/usr/share/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemistry (CN)
+\l__chemgreek_tmpa_int=\count357
+\g__chemgreek_tmpa_int=\count358
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count359
+\__mhchem_arrow_extPgfLength_skip=\skip89
+\mhchem@minispace@tmp=\skip90
+\mhchem@minibackspace@tmp=\skip91
+\mhchem@bondwidth=\skip92
+\mhchem@bondheight=\skip93
+\mhchem@smallbondwidth@tmpA=\skip94
+\mhchem@smallbondwidth@tmpB=\skip95
+\mhchem@smallbondwidth=\skip96
+\mhchem@bondtmp@minussidebearingleft=\skip97
+\mhchem@bondtmp@minussidebearingright=\skip98
+\l__mhchem_option_version_int=\count360
+\mhchem@option@minusmathsidebearingleft=\dimen317
+\mhchem@option@minusmathsidebearingright=\dimen318
+\mhchem@option@minustextsidebearingleft=\dimen319
+\mhchem@option@minustextsidebearingright=\dimen320
+)) (./Tex/Frontinfo.tex)
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 55.
+LaTeX Font Info:    No file T1ntxtlf.fd. on input line 55.
+
+
+LaTeX Font Warning: Font shape `T1/ntxtlf/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 55.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
+ (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen321
+\Hy@linkcounter=\count361
+\Hy@pagecounter=\count362
+ (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count363
+ (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4414.
+ (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2019/09/28 v7.00a Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4540.
+Package hyperref Info: Link nesting OFF on input line 4545.
+Package hyperref Info: Hyper index ON on input line 4548.
+Package hyperref Info: Plain pages OFF on input line 4555.
+Package hyperref Info: Backreferencing OFF on input line 4560.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4793.
+\c@Hy@tempcnt=\count364
+ (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5152.
+\XeTeXLinkMargin=\dimen322
+\Fld@menulength=\count365
+\Field@Width=\dimen323
+\Fld@charsize=\dimen324
+Package hyperref Info: Hyper figures OFF on input line 6423.
+Package hyperref Info: Link nesting OFF on input line 6428.
+Package hyperref Info: Hyper index ON on input line 6431.
+Package hyperref Info: backreferencing OFF on input line 6438.
+Package hyperref Info: Link coloring OFF on input line 6443.
+Package hyperref Info: Link coloring with OCG OFF on input line 6448.
+Package hyperref Info: PDF/A mode OFF on input line 6453.
+LaTeX Info: Redefining \ref on input line 6493.
+LaTeX Info: Redefining \pageref on input line 6497.
+\Hy@abspage=\count366
+\c@Item=\count367
+\c@Hfootnote=\count368
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2019/09/28 v7.00a Hyperref driver for XeTeX
+ (/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box81
+\c@Hy@AnnotLevel=\count369
+\HyField@AnnotCount=\count370
+\Fld@listcount=\count371
+\c@bookmark@seq@number=\count372
+ (/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip99
+)
+Package hyperref Info: Option `psdextra' set `true' on input line 55.
+ (/usr/share/texmf-dist/tex/latex/hyperref/psdextra.def
+File: psdextra.def 2019/09/28 v7.00a Hyperref: Additions to PDF string support
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 55.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 55.
+
+Package hyperref Info: Option `pdffitwindow' set `false' on input line 55.
+Package hyperref Info: Option `colorlinks' set `true' on input line 55.
+(/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2019/06/02 v3.7.4 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count373
+\l__xeCJK_listings_flag_int=\count374
+)
+No file Thesis.aux.
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 55.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 55.
+No file OMLntxmi.fd.
+
+./Thesis.tex:55: LaTeX Error: This NFSS system isn't set up properly.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \begin{document}
+                     
+For encoding scheme OML the defaults ntxmi/m/it do not form a valid font shape
+
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 55.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 55.
+No file Untxexa.fd.
+
+./Thesis.tex:55: LaTeX Error: This NFSS system isn't set up properly.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \begin{document}
+                     
+For encoding scheme U the defaults ntxexa/m/n do not form a valid font shape
+
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 55.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 55.
+No file LMSntxsy.fd.
+
+./Thesis.tex:55: LaTeX Error: This NFSS system isn't set up properly.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \begin{document}
+                     
+For encoding scheme LMS the defaults ntxsy/m/n do not form a valid font shape
+
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 55.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 55.
+No file LMXntxexx.fd.
+
+./Thesis.tex:55: LaTeX Error: This NFSS system isn't set up properly.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \begin{document}
+                     
+For encoding scheme LMX the defaults ntxexx/m/n do not form a valid font shape
+
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 55.
+\c@mv@tabular=\count375
+\c@mv@boldtabular=\count376
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count377
+ ABD: EveryShipout initializing macros
+
+Package chemgreek Info: Activating mapping `default' on line 55.
+
+\AtBeginShipoutBox=\box82
+Package hyperref Info: Link coloring ON on input line 55.
+ (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count378
+)
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
+\@outlinefile=\write4
+\openout4 = `Thesis.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(./Tex/Frontmatter.tex
+
+LaTeX Font Warning: Font shape `T1/ntxtlf/bx/n' undefined
+(Font)              using `T1/ntxtlf/m/n' instead on input line 16.
+
+File: Img/ucas_logo.pdf Graphic file (type pdf)
+<use Img/ucas_logo.pdf>
+
+Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 16.
+(/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <12.045> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 10.84042pt on input line 16.
+
+Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
+(fontspec)             'FandolHei-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolHei-Bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolHei-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolHei-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <26.09749> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 23.48758pt on input line 16.
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <15.05624> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 13.55052pt on input line 16.
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input line 16.
+LaTeX Font Info:    No file OT1ntxtlf.fd. on input line 16.
+
+
+LaTeX Font Warning: Font shape `OT1/ntxtlf/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `OML/ntxmi/m/it' undefined
+(Font)              using `OML/ntxmi/m/it' instead on input line 16.
+
+./Tex/Frontmatter.tex:16: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.16 \intobmk
+             \chapter*{摘\quad 要}% 显示在书签但不显示在目录
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `OML/ntxmi/m/it' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `LMS/ntxsy/m/n' undefined
+(Font)              using `LMS/ntxsy/m/n' instead on input line 16.
+
+./Tex/Frontmatter.tex:16: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.16 \intobmk
+             \chapter*{摘\quad 要}% 显示在书签但不显示在目录
+(That was another \errmessage.)
+
+
+LaTeX Font Warning: Font shape `LMS/ntxsy/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `LMX/ntxexx/m/n' undefined
+(Font)              using `LMX/ntxexx/m/n' instead on input line 16.
+
+./Tex/Frontmatter.tex:16: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.16 \intobmk
+             \chapter*{摘\quad 要}% 显示在书签但不显示在目录
+(That was another \errmessage.)
+
+
+LaTeX Font Warning: Font shape `LMX/ntxexx/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 16.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 16.
+LaTeX Font Info:    No file Untxmia.fd. on input line 16.
+
+
+LaTeX Font Warning: Font shape `U/ntxmia/m/it' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `U/ntxexa/m/n' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 16.
+
+./Tex/Frontmatter.tex:16: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.16 \intobmk
+             \chapter*{摘\quad 要}% 显示在书签但不显示在目录
+(That was another \errmessage.)
+
+
+LaTeX Font Warning: Font shape `U/ntxexa/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 16.
+
+
+LaTeX Font Warning: Font shape `U/ntxmia/m/it' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 16.
+
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 16.
+LaTeX Font Info:    No file Untxsym.fd. on input line 16.
+
+LaTeX Font Warning: Font shape `U/ntxsym/m/n' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 16.
+
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 16.
+LaTeX Font Info:    No file Untxsyc.fd. on input line 16.
+
+LaTeX Font Warning: Font shape `U/ntxsyc/m/n' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 16.
+
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 16.
+(/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <15.05624> not available
+(Font)              size <14.4> substituted on input line 16.
+
+./Tex/Frontmatter.tex:16: Math formula deleted: Insufficient symbol fonts.
+<argument> \prg_do_nothing: {$~^{\pi }\pi ^{\pi }$
+                                                  }\xeCJK_ulem_right: \xdef ...
+l.16 \intobmk
+             \chapter*{摘\quad 要}% 显示在书签但不显示在目录
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 16.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <7.52812> not available
+(Font)              size <8> substituted on input line 16.
+
+./Tex/Frontmatter.tex:16: Math formula deleted: Insufficient symbol fonts.
+\endtabular ->\endarray $
+                         \egroup 
+l.16 \intobmk
+             \chapter*{摘\quad 要}% 显示在书签但不显示在目录
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[1
+
+
+
+] [2
+
+
+]
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <14.05249> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 12.64714pt on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 12.64714pt
+(hyperref)                replaced by space on input line 16.
+
+) [1
+
+]
+./Thesis.tex:63: Math formula deleted: Insufficient symbol fonts.
+\ucas@value@ch@title ...}模板 {$~^{\pi }\pi ^{\pi }$
+                                                  }
+l.63 \intobmk*{\cleardoublepage}{\contentsname}
+                                               % add link to bookmark
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[2
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 11.79117pt
+(hyperref)                replaced by space on input line 63.
+
+\tf@toc=\write5
+\openout5 = `Thesis.toc'.
+
+[3
+
+]
+./Thesis.tex:65: Math formula deleted: Insufficient symbol fonts.
+\ucas@value@ch@title ...}模板 {$~^{\pi }\pi ^{\pi }$
+                                                  }
+l.65 \intobmk*{\cleardoublepage}{\listfigurename}
+                                                 % add link to bookmark
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[4
+
+]
+\tf@lof=\write6
+\openout6 = `Thesis.lof'.
+
+ [5
+
+]
+./Thesis.tex:67: Math formula deleted: Insufficient symbol fonts.
+\ucas@value@ch@title ...}模板 {$~^{\pi }\pi ^{\pi }$
+                                                  }
+l.67 \intobmk*{\cleardoublepage}{\listtablename}
+                                                % add link to bookmark
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[6
+
+]
+\tf@lot=\write7
+\openout7 = `Thesis.lot'.
+
+ (./Tex/Prematter.tex [7
+
+]
+./Tex/Prematter.tex:1: Math formula deleted: Insufficient symbol fonts.
+\ucas@value@ch@title ...}模板 {$~^{\pi }\pi ^{\pi }$
+                                                  }
+l.1 \intobmk\chapter*{符号列表}
+                           % 显示在书签但不显示在目录
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[8
+
+]) [9]
+./Thesis.tex:74: Math formula deleted: Insufficient symbol fonts.
+\ucas@value@ch@title ...}模板 {$~^{\pi }\pi ^{\pi }$
+                                                  }
+l.74 \mainmatter
+                % initialize the environment
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[10
+
+] (./Tex/Mainmatter.tex (./Tex/Chap_Intro.tex
+第1章
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 10.84042pt on input line 3.
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 13.
+LaTeX Font Info:    No file T1ntxtt.fd. on input line 13.
+
+LaTeX Font Warning: Font shape `T1/ntxtt/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 13.
+
+
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+[1
+
+]) (./Tex/Chap_Guide.tex
+./Tex/Chap_Guide.tex:1: Math formula deleted: Insufficient symbol fonts.
+\ucas@value@ch@title ...}模板 {$~^{\pi }\pi ^{\pi }$
+                                                  }
+l.1 \chapter
+            {\LaTeX{}使用说明}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[2]
+第2章
+LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <10.53937> not available
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 9.48535pt on input line 1.
+
+Package natbib Warning: Citation `wikibook2014latex' on page 3 undefined on input line 3.
+
+
+LaTeX Warning: Reference `sec:system' on page 3 undefined on input line 8.
+
+
+LaTeX Warning: Reference `sec:qa' on page 3 undefined on input line 16.
+
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 30.
+LaTeX Font Info:    No file TS1ntxtlf.fd. on input line 30.
+
+LaTeX Font Warning: Font shape `TS1/ntxtlf/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textbullet' on input line 30.
+
+[3
+
+]
+./Tex/Chap_Guide.tex:61: Math formula deleted: Insufficient symbol fonts.
+\ucas@value@ch@title ...}模板 {$~^{\pi }\pi ^{\pi }$
+                                                  }
+l.61     \item F
+                rontmatter.tex：为论文前言内容如中英文摘要等。
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+[4]
+
+LaTeX Warning: Reference `eq:ns' on page 5 undefined on input line 83.
+
+./Tex/Chap_Guide.tex:84: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.84 \begin{equation}
+                      \label{eq:ns}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:84: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.84 \begin{equation}
+                      \label{eq:ns}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:84: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.84 \begin{equation}
+                      \label{eq:ns}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:84: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.84 \begin{equation}
+                      \label{eq:ns}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+<template> \unhcopy \@arstrutbox $\relax $
+                                          \setbox \z@ \hbox \bgroup \bgroup ...
+l.87         \frac
+                  {\partial \rho}{\partial t} + \nabla\cdot(\rho\Vector{V}) ...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+
+LaTeX Font Warning: Font shape `OT1/ntxtlf/b/n' undefined
+(Font)              using `OT1/ntxtlf/m/n' instead on input line 87.
+
+
+LaTeX Font Warning: Font shape `OML/ntxmi/b/it' undefined
+(Font)              using `OML/ntxmi/m/it' instead on input line 87.
+
+
+LaTeX Font Warning: Font shape `LMS/ntxsy/b/n' undefined
+(Font)              using `LMS/ntxsy/m/n' instead on input line 87.
+
+
+LaTeX Font Warning: Font shape `LMX/ntxexx/b/n' undefined
+(Font)              using `LMX/ntxexx/m/n' instead on input line 87.
+
+
+LaTeX Font Warning: Font shape `U/ntxmia/b/it' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 87.
+
+
+LaTeX Font Warning: Font shape `U/ntxsym/b/n' undefined
+(Font)              using `U/ntxsym/m/n' instead on input line 87.
+
+
+LaTeX Font Warning: Font shape `U/ntxsyc/b/n' undefined
+(Font)              using `U/ntxsyc/m/n' instead on input line 87.
+
+
+LaTeX Font Warning: Font shape `U/ntxexa/b/n' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 87.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.87 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  ) = 0 \ \mathrm{times\ mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.87 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  ) = 0 \ \mathrm{times\ mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+<argument> ...oice {\hbox {$\m@th \displaystyle V$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.87 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  ) = 0 \ \mathrm{times\ mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+<argument> ...yle V$}}{\hbox {$\m@th \textstyle V$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.87 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  ) = 0 \ \mathrm{times\ mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+<argument> ...e V$}}{\hbox {$\m@th \scriptstyle V$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.87 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  ) = 0 \ \mathrm{times\ mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+<argument> ...{\hbox {$\m@th \scriptscriptstyle V$
+                                                  }}
+l.87 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  ) = 0 \ \mathrm{times\ mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+<template> \unskip \relax $
+                           \do@row@strut \hfill \egroup \egroup \begingroup ...
+l.87 ...times\ math\ test: 1,2,3,4,5}, 1,2,3,4,5\\
+                                                  
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:87: Math formula deleted: Insufficient symbol fonts.
+<template> ...width\z@ \unhbox \z@ $\quad \relax $
+                                                  \endtemplate 
+l.87 ...times\ math\ test: 1,2,3,4,5}, 1,2,3,4,5\\
+                                                  
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<template> \unhcopy \@arstrutbox $\relax $
+                                          \setbox \z@ \hbox \bgroup \bgroup ...
+l.88         \frac
+                  {\partial (\rho\Vector{V})}{\partial t} + \nabla\cdot(\rho...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.88 ...rac{\partial (\rho\Vector{V})}{\partial t}
+                                                   + \nabla\cdot(\rho\Vector...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.88 ...rac{\partial (\rho\Vector{V})}{\partial t}
+                                                   + \nabla\cdot(\rho\Vector...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...oice {\hbox {$\m@th \displaystyle V$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.88 ...rac{\partial (\rho\Vector{V})}{\partial t}
+                                                   + \nabla\cdot(\rho\Vector...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...yle V$}}{\hbox {$\m@th \textstyle V$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.88 ...rac{\partial (\rho\Vector{V})}{\partial t}
+                                                   + \nabla\cdot(\rho\Vector...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...e V$}}{\hbox {$\m@th \scriptstyle V$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.88 ...rac{\partial (\rho\Vector{V})}{\partial t}
+                                                   + \nabla\cdot(\rho\Vector...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...{\hbox {$\m@th \scriptscriptstyle V$
+                                                  }}
+l.88 ...rac{\partial (\rho\Vector{V})}{\partial t}
+                                                   + \nabla\cdot(\rho\Vector...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.88 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  \Vector{V}) = \nabla\cdot\...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.88 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  \Vector{V}) = \nabla\cdot\...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...oice {\hbox {$\m@th \displaystyle V$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.88 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  \Vector{V}) = \nabla\cdot\...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...yle V$}}{\hbox {$\m@th \textstyle V$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.88 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  \Vector{V}) = \nabla\cdot\...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...e V$}}{\hbox {$\m@th \scriptstyle V$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.88 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  \Vector{V}) = \nabla\cdot\...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...{\hbox {$\m@th \scriptscriptstyle V$
+                                                  }}
+l.88 ...}{\partial t} + \nabla\cdot(\rho\Vector{V}
+                                                  \Vector{V}) = \nabla\cdot\...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.88 ... t} + \nabla\cdot(\rho\Vector{V}\Vector{V}
+                                                  ) = \nabla\cdot\Tensor{\si...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.88 ... t} + \nabla\cdot(\rho\Vector{V}\Vector{V}
+                                                  ) = \nabla\cdot\Tensor{\si...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...oice {\hbox {$\m@th \displaystyle V$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.88 ... t} + \nabla\cdot(\rho\Vector{V}\Vector{V}
+                                                  ) = \nabla\cdot\Tensor{\si...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...yle V$}}{\hbox {$\m@th \textstyle V$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.88 ... t} + \nabla\cdot(\rho\Vector{V}\Vector{V}
+                                                  ) = \nabla\cdot\Tensor{\si...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...e V$}}{\hbox {$\m@th \scriptstyle V$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.88 ... t} + \nabla\cdot(\rho\Vector{V}\Vector{V}
+                                                  ) = \nabla\cdot\Tensor{\si...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...{\hbox {$\m@th \scriptscriptstyle V$
+                                                  }}
+l.88 ... t} + \nabla\cdot(\rho\Vector{V}\Vector{V}
+                                                  ) = \nabla\cdot\Tensor{\si...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 7.19995pt on input line 88.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 5.39996pt on input line 88.
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.88 ...V}\Vector{V}) = \nabla\cdot\Tensor{\sigma}
+                                                   \ \text{times text test: ...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.88 ...V}\Vector{V}) = \nabla\cdot\Tensor{\sigma}
+                                                   \ \text{times text test: ...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...@th \displaystyle \mathsf {\sigma }$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.88 ...V}\Vector{V}) = \nabla\cdot\Tensor{\sigma}
+                                                   \ \text{times text test: ...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...$\m@th \textstyle \mathsf {\sigma }$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.88 ...V}\Vector{V}) = \nabla\cdot\Tensor{\sigma}
+                                                   \ \text{times text test: ...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...m@th \scriptstyle \mathsf {\sigma }$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.88 ...V}\Vector{V}) = \nabla\cdot\Tensor{\sigma}
+                                                   \ \text{times text test: ...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<argument> ...scriptscriptstyle \mathsf {\sigma }$
+                                                  }}
+l.88 ...V}\Vector{V}) = \nabla\cdot\Tensor{\sigma}
+                                                   \ \text{times text test: ...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<template> \unskip \relax $
+                           \do@row@strut \hfill \egroup \egroup \begingroup ...
+l.88 ...gma} \ \text{times text test: 1,2,3,4,5}\\
+                                                  
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:88: Math formula deleted: Insufficient symbol fonts.
+<template> ...width\z@ \unhbox \z@ $\quad \relax $
+                                                  \endtemplate 
+l.88 ...gma} \ \text{times text test: 1,2,3,4,5}\\
+                                                  
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<template> \unhcopy \@arstrutbox $\relax $
+                                          \setbox \z@ \hbox \bgroup \bgroup ...
+l.89         \frac
+                  {\partial (\rho E)}{\partial t} + \nabla\cdot(\rho E\Vecto...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.89 ...\partial t} + \nabla\cdot(\rho E\Vector{V}
+                                                  ) = \nabla\cdot(k\nabla T)...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.89 ...\partial t} + \nabla\cdot(\rho E\Vector{V}
+                                                  ) = \nabla\cdot(k\nabla T)...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...oice {\hbox {$\m@th \displaystyle V$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.89 ...\partial t} + \nabla\cdot(\rho E\Vector{V}
+                                                  ) = \nabla\cdot(k\nabla T)...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...yle V$}}{\hbox {$\m@th \textstyle V$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.89 ...\partial t} + \nabla\cdot(\rho E\Vector{V}
+                                                  ) = \nabla\cdot(k\nabla T)...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...e V$}}{\hbox {$\m@th \scriptstyle V$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.89 ...\partial t} + \nabla\cdot(\rho E\Vector{V}
+                                                  ) = \nabla\cdot(k\nabla T)...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...{\hbox {$\m@th \scriptscriptstyle V$
+                                                  }}
+l.89 ...\partial t} + \nabla\cdot(\rho E\Vector{V}
+                                                  ) = \nabla\cdot(k\nabla T)...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.89 ...t(k\nabla T) + \nabla\cdot(\Tensor{\sigma}
+                                                  \cdot\Vector{V})
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.89 ...t(k\nabla T) + \nabla\cdot(\Tensor{\sigma}
+                                                  \cdot\Vector{V})
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...@th \displaystyle \mathsf {\sigma }$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.89 ...t(k\nabla T) + \nabla\cdot(\Tensor{\sigma}
+                                                  \cdot\Vector{V})
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...$\m@th \textstyle \mathsf {\sigma }$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.89 ...t(k\nabla T) + \nabla\cdot(\Tensor{\sigma}
+                                                  \cdot\Vector{V})
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...m@th \scriptstyle \mathsf {\sigma }$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.89 ...t(k\nabla T) + \nabla\cdot(\Tensor{\sigma}
+                                                  \cdot\Vector{V})
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...scriptscriptstyle \mathsf {\sigma }$
+                                                  }}
+l.89 ...t(k\nabla T) + \nabla\cdot(\Tensor{\sigma}
+                                                  \cdot\Vector{V})
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.89 ...\nabla\cdot(\Tensor{\sigma}\cdot\Vector{V}
+                                                  )
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.89 ...\nabla\cdot(\Tensor{\sigma}\cdot\Vector{V}
+                                                  )
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...oice {\hbox {$\m@th \displaystyle V$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.89 ...\nabla\cdot(\Tensor{\sigma}\cdot\Vector{V}
+                                                  )
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...yle V$}}{\hbox {$\m@th \textstyle V$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.89 ...\nabla\cdot(\Tensor{\sigma}\cdot\Vector{V}
+                                                  )
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...e V$}}{\hbox {$\m@th \scriptstyle V$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.89 ...\nabla\cdot(\Tensor{\sigma}\cdot\Vector{V}
+                                                  )
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:89: Math formula deleted: Insufficient symbol fonts.
+<argument> ...{\hbox {$\m@th \scriptscriptstyle V$
+                                                  }}
+l.89 ...\nabla\cdot(\Tensor{\sigma}\cdot\Vector{V}
+                                                  )
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:90: Math formula deleted: Insufficient symbol fonts.
+<template> \unskip \relax $
+                           \do@row@strut \hfill \egroup \egroup \begingroup ...
+l.90     \end{cases}
+                    
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:90: Math formula deleted: Insufficient symbol fonts.
+<template> ...width\z@ \unhbox \z@ $\quad \relax $
+                                                  \endtemplate 
+l.90     \end{cases}
+                    
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:91: Math formula deleted: Insufficient symbol fonts.
+\endmathdisplay ...badmath \fi \endmathdisplay@a $
+                                                  $\global \let \df@label \@...
+l.91 \end{equation}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:91: Math formula deleted: Insufficient symbol fonts.
+\endmathdisplay ...admath \fi \endmathdisplay@a $$
+                                                  \global \let \df@label \@e...
+l.91 \end{equation}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:92: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.92 \begin{equation}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:92: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.92 \begin{equation}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:92: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.92 \begin{equation}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:92: Math formula deleted: Insufficient symbol fonts.
+\mathsm@sh #1#2->\setbox \z@ \hbox {$\m@th #1{#2}$
+                                                  }\finsm@sh 
+l.92 \begin{equation}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.94 ...{d}\Omega + \int\limits_{S} \unitVector{n}
+                                                  \cdot(u\Vector{V}) \, \mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.94 ...{d}\Omega + \int\limits_{S} \unitVector{n}
+                                                  \cdot(u\Vector{V}) \, \mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...x {$\m@th \displaystyle \mathbf {n}$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.94 ...{d}\Omega + \int\limits_{S} \unitVector{n}
+                                                  \cdot(u\Vector{V}) \, \mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...hbox {$\m@th \textstyle \mathbf {n}$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.94 ...{d}\Omega + \int\limits_{S} \unitVector{n}
+                                                  \cdot(u\Vector{V}) \, \mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...ox {$\m@th \scriptstyle \mathbf {n}$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.94 ...{d}\Omega + \int\limits_{S} \unitVector{n}
+                                                  \cdot(u\Vector{V}) \, \mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...m@th \scriptscriptstyle \mathbf {n}$
+                                                  }}
+l.94 ...{d}\Omega + \int\limits_{S} \unitVector{n}
+                                                  \cdot(u\Vector{V}) \, \mat...
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\@ne mu \setbox \tw@ \hbox {$#1\m@th $
+                                                  }\kern -\wd \tw@ ${}#1{}\m...
+l.94 ...limits_{S} \unitVector{n}\cdot(u\Vector{V}
+                                                  ) \, \mathrm{d}S = \dot{\phi}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+\binrel@ ...\m@th $}\kern -\wd \tw@ ${}#1{}\m@th $
+                                                  }\edef \@tempa {\endgroup ...
+l.94 ...limits_{S} \unitVector{n}\cdot(u\Vector{V}
+                                                  ) \, \mathrm{d}S = \dot{\phi}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...oice {\hbox {$\m@th \displaystyle V$
+                                                  }}{\hbox {$\m@th \textstyl...
+l.94 ...limits_{S} \unitVector{n}\cdot(u\Vector{V}
+                                                  ) \, \mathrm{d}S = \dot{\phi}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...yle V$}}{\hbox {$\m@th \textstyle V$
+                                                  }}{\hbox {$\m@th \scriptst...
+l.94 ...limits_{S} \unitVector{n}\cdot(u\Vector{V}
+                                                  ) \, \mathrm{d}S = \dot{\phi}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...e V$}}{\hbox {$\m@th \scriptstyle V$
+                                                  }}{\hbox {$\m@th \scriptsc...
+l.94 ...limits_{S} \unitVector{n}\cdot(u\Vector{V}
+                                                  ) \, \mathrm{d}S = \dot{\phi}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+<argument> ...{\hbox {$\m@th \scriptscriptstyle V$
+                                                  }}
+l.94 ...limits_{S} \unitVector{n}\cdot(u\Vector{V}
+                                                  ) \, \mathrm{d}S = \dot{\phi}
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:94: Math formula deleted: Insufficient symbol fonts.
+\mathaccentV ...bblethree \frozen@everymath {}$#5$
+                                                  }\macc@tmp \ifnum \macc@de...
+l.94 ...t(u\Vector{V}) \, \mathrm{d}S = \dot{\phi}
+                                                  
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:95: Math formula deleted: Insufficient symbol fonts.
+\endmathdisplay ...badmath \fi \endmathdisplay@a $
+                                                  $\global \let \df@label \@...
+l.95 \end{equation}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:95: Math formula deleted: Insufficient symbol fonts.
+\endmathdisplay ...admath \fi \endmathdisplay@a $$
+                                                  \global \let \df@label \@e...
+l.95 \end{equation}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             \endtemplate 
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             \hfill \endtemplate 
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             \endtemplate 
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             \hfill \endtemplate 
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             }\ifdim \wdz@ >\totwidth@ \global \totwidth@ \wdz@ \fi \endtemp...
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             \endtemplate 
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             \hfill \endtemplate 
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+\@mathmeasure ...#3->\setbox #1\hbox {\m@th $#2#3$
+                                                  }
+l.102     \end{split}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+./Tex/Chap_Guide.tex:102: Math formula deleted: Insufficient symbol fonts.
+<template> }$
+             \endtemplate 
+l.102     \end{split}
+                     
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 45376 strings out of 492483
+ 890174 string characters out of 6134980
+ 970269 words of memory out of 5000000
+ 49232 multiletter control sequences out of 15000+600000
+ 573906 words of font info for 99 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 76i,20n,100p,912b,2125s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Thesis.pdf (16 pages).
