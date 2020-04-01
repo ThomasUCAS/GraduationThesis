@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2020.4.1)  1 APR 2020 19:01
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Arch Linux) (preloaded format=xelatex 2020.4.1)  1 APR 2020 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1836,8 +1836,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 12.64714pt on input line 1.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.48535pt on input line 1.
-LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 10.84042pt on input line 2.
 )
 \tf@toc=\write5
@@ -1865,199 +1863,16 @@ LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 
 ] [11]) [12] (./Tex/Mainmatter.tex (./Tex/Chap1.tex
 第1章
-LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <10.53937> not available
-(Font)              Font shape `T1/qhv/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.48535pt on input line 1.
+) (./Tex/Chap2.tex [1
 
-Package natbib Warning: Citation `wikibook2014latex' on page 1 undefined on input line 3.
 
-
-Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
-(fontspec)                Script "CJK".
-
-LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 13.
-LaTeX Font Info:    No file T1ntxtt.fd. on input line 13.
-
-LaTeX Font Warning: Font shape `T1/ntxtt/m/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 13.
-
-
-Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
-(fontspec)             'FandolFang-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolFang-Regular.otf]/OT"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 30.
-LaTeX Font Info:    No file TS1ntxtlf.fd. on input line 30.
-
-LaTeX Font Warning: Font shape `TS1/ntxtlf/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textbullet' on input line 30.
-
-[1
-
-
-] [2]
-
-LaTeX Font Warning: Font shape `OT1/ntxtlf/b/n' undefined
-(Font)              using `OT1/ntxtlf/m/n' instead on input line 87.
-
-
-LaTeX Font Warning: Font shape `U/ntxmia/b/it' undefined
-(Font)              using `U/ntxexa/m/n' instead on input line 87.
-
-
-LaTeX Font Warning: Font shape `U/ntxsym/b/n' undefined
-(Font)              using `U/ntxsym/m/n' instead on input line 87.
-
-
-LaTeX Font Warning: Font shape `U/ntxsyc/b/n' undefined
-(Font)              using `U/ntxsyc/m/n' instead on input line 87.
-
-LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 7.19995pt on input line 88.
-LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 5.39996pt on input line 88.
-[3]
-
-LaTeX Font Warning: Font shape `T1/ntxtlf/m/it' undefined
-(Font)              using `T1/ntxtlf/m/n' instead on input line 109.
-
-Missing character: There is no ^^83 in font ntxexa!
-[4]
-File: Img/c06h06.png Graphic file (type bmp)
-<Img/c06h06.png>
-File: Img/c06h06.png Graphic file (type bmp)
-<Img/c06h06.png>
-File: Img/oaspl_a.pdf Graphic file (type pdf)
-<use Img/oaspl_a.pdf>
-File: Img/oaspl_b.pdf Graphic file (type pdf)
-<use Img/oaspl_b.pdf>
-File: Img/oaspl_c.pdf Graphic file (type pdf)
-<use Img/oaspl_c.pdf>
-File: Img/oaspl_d.pdf Graphic file (type pdf)
-<use Img/oaspl_d.pdf>
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 222.
-
-
-LaTeX Font Warning: Font shape `T1/ntxtlf/m/sc' undefined
-(Font)              using `T1/ntxtlf/m/n' instead on input line 224.
-
-[5] [6]
-Overfull \hbox (12.52281pt too wide) in paragraph at lines 238--239
-[]\TU/FandolSong-Regular(0)/m/n/12.045 参 考 文 献 引 用 过 程 以 实 例 进 行 介 绍，|  假 设 需 要 引 用 名 为\T1/ntxtlf/m/it/12.045 "Document Preparation
- []
-
-
-Package natbib Warning: Citation `lamport1986document' on page 7 undefined on input line 244.
-
-
-Package natbib Warning: Citation `lamport1986document' on page 7 undefined on input line 246.
-
-
-Package natbib Warning: Citation `lamport1986document' on page 7 undefined on input line 250.
-
-
-Package natbib Warning: Citation `chu2004tushu' on page 7 undefined on input line 250.
-
-
-Package natbib Warning: Citation `chen2005zhulu' on page 7 undefined on input line 250.
-
-
-Package natbib Warning: Citation `walls2013drought' on page 7 undefined on input line 254.
-
-
-Package natbib Warning: Citation `betts2005aging' on page 7 undefined on input line 254.
-
-
-Package natbib Warning: Citation `walls2013drought' on page 7 undefined on input line 254.
-
-
-Package natbib Warning: Citation `betts2005aging' on page 7 undefined on input line 254.
-
-
-Package natbib Warning: Citation `chen1980zhongguo' on page 7 undefined on input line 254.
-
-
-Package natbib Warning: Citation `bravo1990comparative' on page 7 undefined on input line 254.
-
-
-Package natbib Warning: Citation `yuan2012lana' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `yuan2012lanb' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `yuan2012lanc' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `yuan2012lana' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `yuan2012lanb' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `yuan2012lanc' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `chen1980zhongguo' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `stamerjohanns2009mathml' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `hls2012jinji' on page 7 undefined on input line 255.
-
-
-Package natbib Warning: Citation `niu2013zonghe' on page 7 undefined on input line 255.
-
-[7]
-
-Package natbib Warning: Citation `niu2013zonghe' on page 8 undefined on input line 257.
-
-
-Package natbib Warning: Citation `Bohan1928' on page 8 undefined on input line 257.
-
-
-Package natbib Warning: Citation `stamerjohanns2009mathml' on page 8 undefined on input line 257.
-
-
-Package natbib Warning: Citation `Dubrovin1906' on page 8 undefined on input line 257.
-
-
-Overfull \hbox (4.09387pt too wide) in paragraph at lines 257--258
-[]\TU/FandolSong-Regular(0)/m/n/12.045 使 用 著 者\T1/ntxtlf/m/it/12.045 -\TU/FandolSong-Regular(0)/m/n/12.045 出 版 年 制  |（\T1/ntxtlf/m/it/12.045 authoryear\TU/FandolSong-Regular(0)/m/n/12.045 ）|  式 参 考 文 献 样 式 时，|  中 文 文 献 必 须 在 \T1/ntxtlf/m/it/12.045 BibTeX
- []
-
-[8]
-
-LaTeX Font Warning: Font shape `T1/ntxtt/bx/n' undefined
-(Font)              using `T1/ntxtt/m/n' instead on input line 313.
-
-
-LaTeX Font Warning: Font shape `TU/FandolFang-Regular(0)/bx/n' undefined
-(Font)              using `TU/FandolFang-Regular(0)/m/n' instead on input line 313.
-
-
-LaTeX Font Warning: Font shape `T1/ntxtlf/bx/it' undefined
-(Font)              using `T1/ntxtlf/bx/n' instead on input line 315.
-
-
-LaTeX Font Warning: Font shape `TU/FandolSong-Regular(0)/bx/it' undefined
-(Font)              using `TU/FandolSong-Regular(0)/bx/n' instead on input line 315.
-
-) (./Tex/Chap2.tex [9] [10
+] [2
 
 ]
 第2章
-[11])) [12] (./Tex/Appendix.tex
+)) [3] [4
+
+] (./Tex/Appendix.tex
 附录 A
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2076,8 +1891,28 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 7.
 
 
+LaTeX Font Warning: Font shape `OT1/ntxtlf/b/n' undefined
+(Font)              using `OT1/ntxtlf/m/n' instead on input line 12.
+
+
+LaTeX Font Warning: Font shape `U/ntxmia/b/it' undefined
+(Font)              using `U/ntxexa/m/n' instead on input line 12.
+
+
+LaTeX Font Warning: Font shape `U/ntxsym/b/n' undefined
+(Font)              using `U/ntxsym/m/n' instead on input line 12.
+
+
+LaTeX Font Warning: Font shape `U/ntxsyc/b/n' undefined
+(Font)              using `U/ntxsyc/m/n' instead on input line 12.
+
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 7.19995pt on input line 13.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 5.39996pt on input line 13.
+
 Overfull \hbox (43.03802pt too wide) in paragraph at lines 30--31
-[]\T1/ntxtlf/bx/it/12.045 mathtext: $\OML/ntxmi/m/it/12.045 A; F; L; \OT1/ntxtlf/b/n/12.045 2\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 3\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 5\OML/ntxmi/m/it/12.045 ; ^^[$\T1/ntxtlf/bx/it/12.045 , mathnormal: $\OML/ntxmi/m/it/12.045 A; F; L; \OT1/ntxtlf/b/n/12.045 2\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 3\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 5\OML/ntxmi/m/it/12.045 ; ^^[$\T1/ntxtlf/bx/it/12.045 , mathrm: $[]$. 
+[]\T1/ntxtlf/bx/n/12.045 mathtext: $\OML/ntxmi/m/it/12.045 A; F; L; \OT1/ntxtlf/b/n/12.045 2\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 3\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 5\OML/ntxmi/m/it/12.045 ; ^^[$\T1/ntxtlf/bx/n/12.045 , math-nor-mal: $\OML/ntxmi/m/it/12.045 A; F; L; \OT1/ntxtlf/b/n/12.045 2\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 3\OML/ntxmi/m/it/12.045 ; \OT1/ntxtlf/b/n/12.045 5\OML/ntxmi/m/it/12.045 ; ^^[$\T1/ntxtlf/bx/n/12.045 , mathrm: $[]$. 
  []
 
 
@@ -2088,12 +1923,19 @@ LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 7.19995pt on input line 32.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 5.39996pt on input line 32.
-[13
-
+[5
 
 ]
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 34.
+LaTeX Font Info:    No file T1ntxtt.fd. on input line 34.
+
+
+LaTeX Font Warning: Font shape `T1/ntxtt/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 34.
+
+
 Overfull \hbox (38.80779pt too wide) in paragraph at lines 34--35
-[]\T1/ntxtlf/bx/it/12.045 mathtt: $[]$, mathfrak: $[]$, mathbb: $[]$. 
+[]\T1/ntxtlf/bx/n/12.045 mathtt: $[]$, math-frak: $[]$, mathbb: $[]$. 
  []
 
 Missing character: There is no 2 in font rsfs10!
@@ -2101,7 +1943,7 @@ Missing character: There is no 3 in font rsfs10!
 Missing character: There is no 5 in font rsfs10!
 
 Overfull \hbox (43.78236pt too wide) in paragraph at lines 36--37
-[]\T1/ntxtlf/bx/it/12.045 mathcal: $[]$, mathscr: $[]$, boldsymbol: $[]$. 
+[]\T1/ntxtt/m/n/12.045 mathcal: $[]$, math-scr: $[]$, boldsym-bol: $[]$. 
  []
 
 Missing character: There is no 颸 in font [FandolSong-Regular.otf]/OT!
@@ -2711,33 +2553,30 @@ Missing character: There is no 暰 in font [FandolSong-Regular.otf]/OT!
 Missing character: There is no 暲 in font [FandolSong-Regular.otf]/OT!
 Missing character: There is no 暳 in font [FandolSong-Regular.otf]/OT!
 Missing character: There is no 暵 in font [FandolSong-Regular.otf]/OT!
-) [14] [15] [16
+) [6] [7] [8
 
 ]
 No file Thesis.bbl.
 (./Tex/Backmatter.tex
 Overfull \hbox (0.29938pt too wide) in paragraph at lines 23--24
-[]\T1/ntxtlf/bx/it/12.045 ucasthesis: A LaTeX Thesis Template for the University of Chinese Academy
+[]\T1/ntxtt/m/n/12.045 ucasthesis: A La-TeX The-sis Tem-plate for the Uni-ver-sity of Chi-nese Academy
  []
 
-[17
+[9
 
 
-] [18
+] [10
 
-] [19] [20
+] [11] [12
 
 ])
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
-(./Thesis.aux)
+ (./Thesis.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0075EAF90D8B07AC0DA0ABA4E07D5380.
+(rerunfilecheck)             Checksum: 578631F1A64A4830119D70B8FEEBEAEE.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2748,12 +2587,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 45790 strings out of 492483
- 909552 string characters out of 6134980
- 974894 words of memory out of 5000000
- 49597 multiletter control sequences out of 15000+600000
- 610558 words of font info for 158 fonts, out of 8000000 for 9000
+ 45374 strings out of 492483
+ 888596 string characters out of 6134980
+ 975207 words of memory out of 5000000
+ 49198 multiletter control sequences out of 15000+600000
+ 594381 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 76i,20n,100p,1017b,2162s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 76i,20n,100p,1017b,2057s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.pdf (34 pages).
+Output written on Thesis.pdf (26 pages).
